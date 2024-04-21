@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/savanna/static/css/main.f855e6bc.css",
+    "main.js": "/savanna/static/js/main.e4d37bfd.js",
+    "static/js/453.0f7325c8.chunk.js": "/savanna/static/js/453.0f7325c8.chunk.js",
+    "static/media/logo.svg": "/savanna/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/savanna/index.html",
+    "main.f855e6bc.css.map": "/savanna/static/css/main.f855e6bc.css.map",
+    "main.e4d37bfd.js.map": "/savanna/static/js/main.e4d37bfd.js.map",
+    "453.0f7325c8.chunk.js.map": "/savanna/static/js/453.0f7325c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.e4d37bfd.js"
+  ]
+}
